@@ -1,11 +1,4 @@
 {
   "version": "0.0.1",
-  "configurations": [
-    {
-      "name": "transcript-tool",
-      "runtimeExecutable": "node",
-      "runtimeArgs": ["transcript-tool/devserver.js"],
-      "port": 5500
-    }
-  ]
+  "configurations": []
 }
